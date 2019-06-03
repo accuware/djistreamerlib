@@ -1,10 +1,13 @@
-# Android DJI Video Stream Decoding Library and WebRTC feed
+# Android DJI Video Stream Decoding Library
+
+**Management Summary**: Forget about RTMP. Make a DJI drone a **real** real time video streamer utilizing WebRTC!
+
 
 ## Documentation and API description
 
 [Available here](https://github.com/accuware/djistreamerlib/wiki)
 
-## Code and version
+## Code and current version
 
 Available at JCenter
 
