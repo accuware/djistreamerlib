@@ -5,7 +5,7 @@
 
 ## Documentation and API description
 
-[Available here](https://github.com/accuware/djistreamerlib/wiki)
+[Available here](https://github.com/accuware/djistreamerlib/wiki/Accuware-djistreamerlib)
 
 ## Code and current version
 
