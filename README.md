@@ -1,6 +1,10 @@
 # Android DJI Video Stream Decoding Library
 
-**Management Summary**: Forget about RTMP. Make a DJI drone a **real** real time video streamer utilizing WebRTC!
+**Management Summary**: 
+
+Forget about RTMP! 
+
+Make a DJI drone a **real** real-time video streamer utilizing WebRTC!
 
 
 ## Documentation and API description
