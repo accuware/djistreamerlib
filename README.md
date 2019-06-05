@@ -9,7 +9,7 @@ Make a DJI drone a **real** real-time video streamer utilizing WebRTC!
 
 ## Documentation and API description
 
-[Available here](https://github.com/accuware/djistreamerlib/wiki/Accuware-djistreamerlib)
+[Available here](https://github.com/accuware/djistreamerlib/wiki)
 
 ## Code and current version
 
