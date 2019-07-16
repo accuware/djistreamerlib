@@ -16,7 +16,7 @@ Make a DJI drone a **real** real-time video streamer utilizing WebRTC!
 Available at JCenter
 
 ```
-implementation 'com.accuware.android:djistreamerlib:0.4.0'
+implementation 'com.accuware.android:djistreamerlib:0.5.0'
 ```
 
 ## Sample app
